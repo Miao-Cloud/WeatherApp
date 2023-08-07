@@ -73,7 +73,7 @@ h1 {
 
   cursor: pointer;
 }
-#signature {
+.signature {
   font-family: Century Gothic;
   color: #a393eb;
   text-align: center;
