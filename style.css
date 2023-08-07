@@ -74,4 +74,7 @@ h1 {
   cursor: pointer;
 }
 #signature {
+  font-family: Century Gothic;
+  color: #a393eb;
+  text-align: center;
 }
